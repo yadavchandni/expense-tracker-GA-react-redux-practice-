@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background: white;
+  width: 436px;
+  -webkit-box-shadow: 7px 5px 15px -3px #e0bbbb;;
+  box-shadow: 7px 5px 15px -3px #e0bbbb;;
+  height: auto;
+  padding-top: 10px;
+  padding-bottom: 2px;
+  flex: 1;
+  text-align: center;
+}
